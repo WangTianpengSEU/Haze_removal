@@ -3,5 +3,5 @@
 Use Dark Channel Theory and Guided Filter method to remove haze
 Reference the two papers:
 
-<<Single Image Haze Removal Using Dark Channel Prior>>
-<<Guided Image Filtering>>
+"Single Image Haze Removal Using Dark Channel Prior"
+"Guided Image Filtering"
